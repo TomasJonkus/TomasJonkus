@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomasJonkus. I'm currently working as a packager in Danske Bank.
+- 👋 Hi, I’m @TomasJonkus. I'm currently working as a senior End User Engineer in Danske Bank.
 - 👀 I’m interested in PowerShell, Productivity tools, MS Azure and learning new things.
 - 🌱 I’m currently learning:
     - Microsoft 365 Certified: Modern Desktop Administrator Associate certification; 
